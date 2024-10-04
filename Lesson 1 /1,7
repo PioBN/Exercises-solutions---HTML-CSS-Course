@@ -1,0 +1,20 @@
+One of the main syntax rules in HTML are :
+1) <> and </> are called a tag, <> is called an opening tag,
+and </> is called a closing tag.
+2) <p></p>, p inside the opening tag and the closing tag is
+called a tag or an element name.
+3) <p>Hello, world!</p>, The text inside <p></p> is called a
+content or an inner text.
+4) <p>Hello, world!</p>, The whole code is called an HTML element.
+5) <p>
+     Hello, world!
+   </p>
+  In this code, if we want to write the code like this (easier
+  to read), we must press a tab (or 2 spaces) before the text.
+  This is called an indent.
+6) <p>Hello, world!</p>, Always write the tag name (element name)
+lowercase, not UPPERCASE.
+
+Note :
+If you don't understand the sentences below, just translate them into
+your own language. (If you're not American, British...)
